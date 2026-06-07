@@ -2,10 +2,10 @@
 <?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
 <package format="3">
   <name>game_one</name>
-  <version>0.0.0</version>
-  <description>TODO: Package description</description>
+  <version>1.0.0</version>
+  <description>A beginner-level ROS2 micro-project demonstrating node sommunication and basic control loops using Turtlesim</description>
   <maintainer email="bhagabantagiri@gmail.com">lenovoi</maintainer>
-  <license>TODO: License declaration</license>
+  <license>MIT</license>
 
   <depend>rclpy</depend>
   <depend>geometry_msgs</depend>

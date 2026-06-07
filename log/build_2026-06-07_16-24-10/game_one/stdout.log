@@ -1,0 +1,20 @@
+running egg_info
+writing ../../build/game_one/game_one.egg-info/PKG-INFO
+writing dependency_links to ../../build/game_one/game_one.egg-info/dependency_links.txt
+writing entry points to ../../build/game_one/game_one.egg-info/entry_points.txt
+writing requirements to ../../build/game_one/game_one.egg-info/requires.txt
+writing top-level names to ../../build/game_one/game_one.egg-info/top_level.txt
+reading manifest file '../../build/game_one/game_one.egg-info/SOURCES.txt'
+writing manifest file '../../build/game_one/game_one.egg-info/SOURCES.txt'
+running build
+running build_py
+running install
+running install_lib
+running install_data
+copying launch/game_launch.py -> /home/lenovoi/Projects/My-Projects/simple-turtlesim-game/install/game_one/share/game_one/launch
+running install_egg_info
+removing '/home/lenovoi/Projects/My-Projects/simple-turtlesim-game/install/game_one/lib/python3.12/site-packages/game_one-1.0.0-py3.12.egg-info' (and everything under it)
+Copying ../../build/game_one/game_one.egg-info to /home/lenovoi/Projects/My-Projects/simple-turtlesim-game/install/game_one/lib/python3.12/site-packages/game_one-1.0.0-py3.12.egg-info
+running install_scripts
+Installing game_one script to /home/lenovoi/Projects/My-Projects/simple-turtlesim-game/install/game_one/lib/game_one
+writing list of installed files to '/home/lenovoi/Projects/My-Projects/simple-turtlesim-game/build/game_one/install.log'

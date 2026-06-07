@@ -23,7 +23,7 @@ class game_one(Node):
         self.pens_cleared = False
         self.spawn_client = self.create_client(Spawn, 'spawn')
         while not self.spawn_client.wait_for_service(timeout_sec=1.0):
-            self.get_logger().info('Waiting for turtlesim spawn service...')
+            self.get_logger().warn('Waiting for turtlesim spawn service...')
         
         request = Spawn.Request()
         request.x = 2.0
@@ -54,7 +54,7 @@ class game_one(Node):
         if not self.pens_cleared:
             if self.pen_client_thief.service_is_ready() and self.pen_client_police.service_is_ready():
                 req = SetPen.Request()
-                req.off = 1  # 1 means "True" (lift pen up)
+                req.off = 1
                 
                 self.pen_client_thief.call_async(req)
                 self.pen_client_police.call_async(req)
