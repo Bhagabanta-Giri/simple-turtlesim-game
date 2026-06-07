@@ -30,7 +30,7 @@ Create a ROS 2 workspace and clone the repository:
 mkdir -p ~/ros2_ws/src
 cd ~/ros2_ws/src
 
-git clone https://github.com/<your-username>/game_one.git
+git clone https://github.com/Bhagabanta-Giri/simple-turtlesim-game.git
 ```
 
 Build the workspace:
@@ -101,7 +101,7 @@ source ~/ros2_ws/install/setup.bash
 ros2 launch game_one game_launch.py
 ```
 
-Immediately switch to first terminal! Or the police will cath you!
+Immediately switch to first terminal! Or the police will catch you!
 
 ### Step 3: Gameplay
 
@@ -126,7 +126,7 @@ Please open a GitHub Issue.
 
 Suggestions and new features are always welcome.
 
-If you have an idea to improve the project or expand the gameplay, feel free to open an issue or submit a pull request.
+If you have an idea to improve the project or expand the gameplay, feel free to submit a pull request.
 
 ### Feature Contribution Workflow
 
@@ -135,7 +135,7 @@ If you have an idea to improve the project or expand the gameplay, feel free to 
 2. Clone your fork:
 
     ```bash
-    git clone https://github.com/your-username/game_one.git
+    git clone https://github.com/Bhagabanta-Giri/simple-turtlesim-game.git
     ```
 
 3. Create a feature branch:
