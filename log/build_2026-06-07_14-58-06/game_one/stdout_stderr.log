@@ -1,0 +1,20 @@
+running develop
+running egg_info
+creating game_one.egg-info
+writing game_one.egg-info/PKG-INFO
+writing dependency_links to game_one.egg-info/dependency_links.txt
+writing requirements to game_one.egg-info/requires.txt
+writing top-level names to game_one.egg-info/top_level.txt
+writing manifest file 'game_one.egg-info/SOURCES.txt'
+reading manifest file 'game_one.egg-info/SOURCES.txt'
+writing manifest file 'game_one.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/lenovoi/Projects/My-Projects/simple-turtlesim-game/install/game_one/lib/python3.12/site-packages/game-one.egg-link (link to .)
+
+Installed /home/lenovoi/Projects/My-Projects/simple-turtlesim-game/build/game_one
+running symlink_data
+creating /home/lenovoi/Projects/My-Projects/simple-turtlesim-game/install/game_one/share/ament_index
+creating /home/lenovoi/Projects/My-Projects/simple-turtlesim-game/install/game_one/share/ament_index/resource_index
+creating /home/lenovoi/Projects/My-Projects/simple-turtlesim-game/install/game_one/share/ament_index/resource_index/packages
+symbolically linking /home/lenovoi/Projects/My-Projects/simple-turtlesim-game/build/game_one/resource/game_one -> /home/lenovoi/Projects/My-Projects/simple-turtlesim-game/install/game_one/share/ament_index/resource_index/packages
+symbolically linking /home/lenovoi/Projects/My-Projects/simple-turtlesim-game/build/game_one/package.xml -> /home/lenovoi/Projects/My-Projects/simple-turtlesim-game/install/game_one/share/game_one

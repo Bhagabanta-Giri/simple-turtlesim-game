@@ -1,0 +1,2 @@
+[console_scripts]
+game_one = game_one.game_one:main

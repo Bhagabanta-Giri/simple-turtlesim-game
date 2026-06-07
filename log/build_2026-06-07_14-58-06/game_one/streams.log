@@ -1,0 +1,22 @@
+[1.643s] Invoking command in '/home/lenovoi/Projects/My-Projects/simple-turtlesim-game/build/game_one': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/lenovoi/Projects/My-Projects/simple-turtlesim-game/build/game_one/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/lenovoi/Projects/My-Projects/simple-turtlesim-game/install/game_one/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/lenovoi/Projects/My-Projects/simple-turtlesim-game/build/game_one/build --no-deps symlink_data
+[1.949s] running develop
+[2.131s] running egg_info
+[2.131s] creating game_one.egg-info
+[2.149s] writing game_one.egg-info/PKG-INFO
+[2.149s] writing dependency_links to game_one.egg-info/dependency_links.txt
+[2.149s] writing requirements to game_one.egg-info/requires.txt
+[2.150s] writing top-level names to game_one.egg-info/top_level.txt
+[2.150s] writing manifest file 'game_one.egg-info/SOURCES.txt'
+[2.184s] reading manifest file 'game_one.egg-info/SOURCES.txt'
+[2.185s] writing manifest file 'game_one.egg-info/SOURCES.txt'
+[2.202s] running build_ext
+[2.202s] Creating /home/lenovoi/Projects/My-Projects/simple-turtlesim-game/install/game_one/lib/python3.12/site-packages/game-one.egg-link (link to .)
+[2.202s] 
+[2.202s] Installed /home/lenovoi/Projects/My-Projects/simple-turtlesim-game/build/game_one
+[2.203s] running symlink_data
+[2.203s] creating /home/lenovoi/Projects/My-Projects/simple-turtlesim-game/install/game_one/share/ament_index
+[2.203s] creating /home/lenovoi/Projects/My-Projects/simple-turtlesim-game/install/game_one/share/ament_index/resource_index
+[2.203s] creating /home/lenovoi/Projects/My-Projects/simple-turtlesim-game/install/game_one/share/ament_index/resource_index/packages
+[2.203s] symbolically linking /home/lenovoi/Projects/My-Projects/simple-turtlesim-game/build/game_one/resource/game_one -> /home/lenovoi/Projects/My-Projects/simple-turtlesim-game/install/game_one/share/ament_index/resource_index/packages
+[2.203s] symbolically linking /home/lenovoi/Projects/My-Projects/simple-turtlesim-game/build/game_one/package.xml -> /home/lenovoi/Projects/My-Projects/simple-turtlesim-game/install/game_one/share/game_one
+[2.230s] Invoked command in '/home/lenovoi/Projects/My-Projects/simple-turtlesim-game/build/game_one' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/lenovoi/Projects/My-Projects/simple-turtlesim-game/build/game_one/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/lenovoi/Projects/My-Projects/simple-turtlesim-game/install/game_one/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/lenovoi/Projects/My-Projects/simple-turtlesim-game/build/game_one/build --no-deps symlink_data
